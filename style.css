@@ -1,0 +1,39 @@
+GtkButton{
+    background-image: none;
+}
+#remove_Btn{
+    background-color: #C0392B;
+    color: white;
+}
+#search_Btn{
+    color: white;
+    background-color: #f4bc42;
+}
+#add_Btn{
+    background-color: #1D8348;
+    color: white;
+}
+#about_Btn{
+    color: black;
+}
+#exit_Btn{
+    color: #C72A00;
+}
+#search_Btn:hover{
+    background-color: #FFC300;
+}
+#add_Btn:hover{
+    background-color: green;
+}
+#remove_Btn:hover{
+    background-color: #C72A00;
+}
+
+#about_Btn:hover{
+    color: white;
+    background-color: black;
+}
+#exit_Btn:hover{
+    background-color: #C72A00;
+    color: white;
+}
